@@ -1,2 +1,2 @@
-# project-course-1
+# Course-html-css
 My first course html.css
